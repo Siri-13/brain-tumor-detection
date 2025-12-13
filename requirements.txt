@@ -1,6 +1,6 @@
-tensorflow==2.12.0
-opencv-python-headless
 streamlit
+opencv-python-headless
 numpy
+onnxruntime
+Pillow
 matplotlib
-pillow
